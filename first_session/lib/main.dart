@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:projects/portfolio_app.dart';
+import 'package:projects/messengers_app.dart';
 
 void main() {
-  runApp(const PortfolioApp());
+  runApp(const MessengersApp());
 }
